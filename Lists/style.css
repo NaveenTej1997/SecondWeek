@@ -1,0 +1,23 @@
+.link-bar{
+	margin-top: 25px;
+	float:right;
+	margin-left: 10px;
+	width:350px;
+        height:450px;
+        margin-right: 170px;
+}
+.link-bar a{
+
+        background-color: coral ;
+        color: white;
+        padding: 18px 90px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin:2px;
+        width:250px;
+        
+      }
+      .link-bar a:hover{
+              background-color:tomato;
+      }

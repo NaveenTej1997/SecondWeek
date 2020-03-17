@@ -1,0 +1,8 @@
+.para{
+	float: left;
+	width:75%;
+}
+.para p{
+	color:black;
+	font-family: courier;
+}

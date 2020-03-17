@@ -1,0 +1,33 @@
+.header{
+        height:100px;
+        border:1px solid green;
+        background-color: darksalmon;
+}
+
+
+
+.login {
+        float:right;
+        margin-right: 30px;
+        margin-top: 10px;
+        height:10px;
+        
+        
+}
+.login a{
+
+        display: inline-block;
+        background-color: lightskyblue;
+        text-decoration: none;
+        padding:2px 15px;
+        
+}
+.login a:hover{
+        color:yellow;
+}
+.search{
+        float:right;
+        margin-top: 30px;
+        margin-right: 10px;
+        padding: 2px 5px;
+}
